@@ -1,0 +1,17 @@
+       
+        ====================================================================================================
+		     		           Welcome to Hunt the Wumpus
+        ====================================================================================================
+
+        The folk of the Wumpus has been passed down from generation by generation believing that thousands
+        of people have never succeeded in finding the mysterious potion which can give a random superpower. 
+        The potion you are looking for has been hidden for a thousand years by the Deadly Wumpus. 
+        They said no adventurer has ever succeeded in killing the dreaded monster, the Wumpus. 
+
+        Hence, you believe the potion is still hidden in the cavern.
+        You have heard terrifying stories about several hazards in the cavern. 
+        Nevertheless, your curiosity leads you to take an adventure to the jungle in search of the potion.
+ 
+
+        Be brave! Take risks! When you fail, you should get up and rise again! Good luck :)
+        ====================================================================================================

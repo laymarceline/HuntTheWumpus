@@ -1,0 +1,140 @@
+ [1] This is the smooth walled cave! The walls are even smoother than your skin!
+1
+3
+17
+E
+S
+W
+ [2] This cave is rather cold and wet. The ground is~ slippery (so be careful where you walk). There~ are drops of water from probably the river above you.
+0
+2
+5
+W
+E
+S
+ [3] This narrow cave seems dark and so empty. There are~ many tiny dirts on the floor.
+1
+6
+7
+W
+S
+E
+ [4] This cave smells mostly of rotting vegetation surrounded by a bunch of insects nests.
+0
+4
+9
+N
+E
+S
+ [5] This cave has drawings and carvings on the wall. Unknown symbols are written here. Has someone lived here before?
+3
+5
+10
+W
+E
+S
+ [6] This tunnel seems slimy and crrepy.
+1
+4
+11
+N
+W
+S
+ [7] A cave with ice surrounded all over the walls and floors. Be careful not to slip~.
+2
+7
+12
+N
+E
+S
+ [8] This cave has terrible smell. It is like the smell of corpses.  
+2
+6
+13
+N
+W
+S
+ [9] A dead end! No lighting, nothing that you can see..
+8
+8
+19
+
+
+S
+ [10] This is a dead end cave with skeletons in it. Wondering who did this~
+9
+9
+3
+
+
+N
+ [11]  Whoa! This cavern is so dark and dusty! It seems like no one have been here before..or is there~
+4
+11
+14
+N
+E
+S
+ [12] This is just a small cave.. You whole body fills half of the entire room 
+5
+10
+15
+N
+W
+S
+ [13] A cave with whispers around..Is it real or just an imagination~
+6
+13
+16
+N
+E
+S
+ [14] This cavern is filled with molds all around. Who even left these dirts.
+7
+12
+18
+N
+W
+S
+ [15] This cave is moisty. It feels like there is no air in here..
+10
+15
+17
+N
+E
+W
+ [16] This is the damp cave. It feels slightly wet here..
+11
+14
+16
+N
+W
+E
+ [17] Oh my! The winds are giving you a shock and you wonder where such thing came from~
+12
+15
+19
+N
+W
+S
+ [18] You find yourself in another enormous cave. It feels like you are just a tiny ant in this cave.
+0
+14
+18
+W
+N
+E
+ [19] Whispers and Hummings are all you hear in this cave. Probably a haunted cave~
+13
+17
+19
+N
+W
+E
+ [20] Ew, this must be the slimy cave! Be careful not to touch anything.
+8
+16
+18
+N
+S
+W
