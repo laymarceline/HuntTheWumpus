@@ -1,0 +1,17 @@
+﻿  Player.cpp
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(435,11): warning C4129: '.': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(436,11): warning C4129: '.': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(437,11): warning C4129: '`': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(438,11): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(439,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(440,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(441,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(444,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(445,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(448,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(449,11): warning C4129: '`': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(450,11): warning C4129: '`': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(452,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(453,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Marceline\source\repos\Assignment3New2\Assignment3New2\Player.cpp(454,11): warning C4129: ' ': unrecognized character escape sequence
+  Assignment3New2.vcxproj -> C:\Users\Marceline\source\repos\Assignment3New2\Debug\Assignment3New2.exe
